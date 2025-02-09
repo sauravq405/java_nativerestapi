@@ -1,7 +1,11 @@
 
 # Jakarta RESTful Web Service with H2 In-Memory Database
 
-Welcome to the project repository for a Jakarta RESTful Web Service integrated with an H2 in-memory database. Below you'll find details on how to set up, run, and interact with this application.
+Welcome to the project repository for a Jakarta RESTful Web Service integrated with an H2 in-memory database. 
+
+This repository hosts a project where I am attempting to replicate the functionality of Spring Boot REST APIs using purely native Java capabilities, focusing on creating a similar RESTful service environment with Jakarta EE, Jersey, and Grizzly, while integrating an H2 in-memory database. This endeavor provides insights into how one might achieve similar results outside of the Spring ecosystem, leveraging standard Java libraries and frameworks.
+
+Below you'll find details on how to set up, run, and interact with this application.
 
 ## Overview
 
@@ -19,8 +23,8 @@ This project demonstrates a simple RESTful service using Jakarta EE, Jersey, and
 
 1. **Clone the Repository**: 
    ```bash
-   git clone [your-repo-url]
-   cd [your-repo-name]
+   git clone [repo-url]
+   cd [repo-name]
    ```
 
 2. **Build the Project**:
