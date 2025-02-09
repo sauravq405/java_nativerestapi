@@ -1,0 +1,4 @@
+curl -X POST \
+     -H "Content-Type: application/json" \
+     -d '{"message": "Hello from CURL!"}' \
+     http://localhost:8090/api/postexample
